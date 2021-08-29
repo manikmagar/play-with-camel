@@ -1,0 +1,17 @@
+= Playing with Apache Camel
+
+A playground for https://camel.apache.org/manual/latest/[Apache Camel].
+
+Java source files use https://jbang.dev[Jbang].
+
+To execute any file -
+
+. `cd` to project home directory
+. Run `./{filename}.java` on command line.
+. For help on CLI options, run `./{filename}.java --help`
+
+
+
+
+
+
